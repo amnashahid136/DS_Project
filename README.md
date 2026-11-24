@@ -1,5 +1,7 @@
 # Network Motifs in Email Communication (R = 3064)
 
+Video (unlisted):   https://www.youtube.com/watch?v=_uL2-WLEQLU
+
 This project implements the motif-detection method of Milo et al. (2002) from scratch. It counts the 13 connected triad classes in two departments of the SNAP **email-Eu-core** network. It then compares those counts with 46 degree-preserving random graphs to decide which classes are motifs (Z > 2) and which are anti-motifs (Z < −2).
 
 ## Group members
