@@ -100,7 +100,7 @@ The minimum is 11, so this triad is **class 5**.
 | 12 | 31 | two mutual pairs + one one-way edge | 931 | 0.49 | 244 | **−7.21** |
 | 13 | 63 | fully mutual triangle | 967 | **34.14** | 342 | **15.15** |
 
-![Z-scores](src/results/zscores_R3064.png)
+![Z-scores](src/Results/zscores_R3064.png)
 
 ## Interpretation (T8)
 
